@@ -1,0 +1,10 @@
+.jumbotron{
+    width: 80%;
+    margin:0 auto;
+}
+p{
+    color: black;
+}
+.link{
+    transition: 0.8s;
+}

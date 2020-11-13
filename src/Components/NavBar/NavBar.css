@@ -1,0 +1,18 @@
+nav{
+    background-image: linear-gradient(to right, tomato, purple);
+    display: flex;
+}
+img{
+    width: 27%;
+    padding: 10px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    float: right;
+}
+p{
+    color: white;
+    size: 20px;
+    margin-left: 2%;
+}
